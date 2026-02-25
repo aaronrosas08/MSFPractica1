@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Aaron Raul Rosas Montoya \[23210716]; l23210716@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
